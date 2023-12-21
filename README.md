@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Joonhoe Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonhoekim&show_icons=true&theme=dark)  
 
 <!--
 **joonhoekim/joonhoekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
