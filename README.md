@@ -1,17 +1,13 @@
-### 방문해주셔서 감사합니다.
-Here are some ideas to get you started:
+### TAKE A RISK🚨, GET A GROWTH🚀.
+==HARDCORE==
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Joonhoe Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonhoekim&show_icons=true&theme=dark)  
+- 🌱 I’m currently learning java and algorithm.
+- 👯 I’m looking to collaborate on web development.
+- 💬 Ask me about anything.
+- 📫 How to reach me: 26rote@gmail.com
+ 
+[![코드트리|실력진단-26rote](https://banner.codetree.ai/v1/banner/26rote)](https://www.codetree.ai/profiles/26rote)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cnlal777)](https://solved.ac/cnlal777)
 
-[![코드트리|실력진단-26rote](https://banner.codetree.ai/v1/banner/26rote)](https://www.codetree.ai/profiles/26rote)
+![Joonhoe Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonhoekim&show_icons=true&theme=dark)  
