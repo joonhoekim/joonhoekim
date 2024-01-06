@@ -1,5 +1,5 @@
 ### TAKE A RISK🚨, GET A GROWTH🚀.
-==HARDCORE==
+`setMyStatus(HARDCORE)`
 
 - 🌱 I’m currently learning java and algorithm.
 - 👯 I’m looking to collaborate on web development.
