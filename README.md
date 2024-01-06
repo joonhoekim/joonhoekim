@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 ![Joonhoe Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonhoekim&show_icons=true&theme=dark)  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cnlal777)](https://solved.ac/cnlal777)
+
+[![코드트리|실력진단-26rote](https://banner.codetree.ai/v1/banner/26rote)](https://www.codetree.ai/profiles/26rote)
