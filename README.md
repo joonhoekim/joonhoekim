@@ -1,6 +1,6 @@
-### TAKE A RISK🚨, GET A GROWTH🚀.
-`setMyStatus(HARDCORE)`
+모르는게 넘 많아서 열심히 배웁니다
 
+### TAKE A RISK🚨, GET A GROWTH🚀.
 - 🌱 I’m currently learning java and algorithm.
 - 👯 I’m looking to collaborate on web development.
 - 💬 Ask me about anything.
