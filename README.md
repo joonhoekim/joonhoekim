@@ -1,10 +1,4 @@
-모르는게 넘 많아서 열심히 배웁니다
-
-### TAKE A RISK🚨, GET A GROWTH🚀.
-- 🌱 I’m currently learning java and algorithm.
-- 👯 I’m looking to collaborate on web development.
-- 💬 Ask me about anything.
-- 📫 How to reach me: 26rote@gmail.com
+# FUN
  
 [![코드트리|실력진단-26rote](https://banner.codetree.ai/v1/banner/26rote)](https://www.codetree.ai/profiles/26rote)
 
