@@ -1,4 +1,4 @@
-# FUN
+# 소매 올리기를 주저하지 말자
  
 [![코드트리|실력진단-26rote](https://banner.codetree.ai/v1/banner/26rote)](https://www.codetree.ai/profiles/26rote)
 
