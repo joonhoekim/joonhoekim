@@ -11,7 +11,7 @@
 
 <p align="left">
  '성장주의'에 빠져 이전 직업을 과감히 접고 개발자 세계로 뛰어든 순진한 모험가입니다.<br>
- '성장하자!'라는 구호를 외치며 1년을 달렸는데, 세상에는 지식이 너무 방대해서 평생을 바쳐도 한 분야조차 완전히 마스터하기 힘들다는 것을 깨달았습니다.<br>
+ '성장하자!'라는 구호를 외치며 달려왔는데, 세상에는 지식이 너무 방대해서 평생을 바쳐도 한 분야조차 완전히 마스터하기 힘들다는 것을 깨달았습니다.<br>
  진정한 '전문성'을 가질 정도의 성장을 위해서는 분명한 방향을 정해야 한다는 교훈을 얻었죠.<br>
  결국 이 개발이란 여정에서 내 옆에 남는 건 풀어야 할 문제와 함께 고민할 사람들뿐이라는 결론에 도달했습니다.<br>
  여러분의 레포지토리가 제 문제 해결에 도움이 되길😂, 그리고 제가 여러분의 문제 해결에 작은 도움이라도 되길 바랍니다! 🚀<br>
@@ -19,7 +19,7 @@
 <br>
 <p align="left">
   I'm a naive adventurer who quit my previous job and plunged into the world of development, caught up in the 'growth mindset' craze.<br>
-  After chanting the mantra 'Let's grow!' for a year, I've realized that knowledge in this world is so vast that it's difficult to master even a single field in a lifetime.<br>
+  After chanting the mantra 'Let's grow!', I've realized that knowledge in this world is so vast that it's difficult to master even a single field in a lifetime.<br>
   I've learned that to grow to the level of true 'expertise,' one must set a clear direction.<br>
   At the end of this development journey, I've concluded that what remains beside me are the problems to solve and the people to solve them with.<br>
   I hope your repositories help solve my problems😂, and that I can be of some small help in solving yours! 🚀<br>
