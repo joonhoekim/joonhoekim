@@ -21,30 +21,5 @@
 | Purpose | Tool |
 | End | Path |
 
-### Process
-
-```
-Identify → Analyze → Realign
-```
-
-### Examples
-
-```
-Education: Learning ↔ Credentials
-Business: Value ↔ Metrics
-Technology: Enhancement ↔ Devices
-```
-
----
-
 *Recognize when the ladder has become the destination*
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://www.codetree.ai/profiles/26rote"><img src="https://banner.codetree.ai/v1/banner/26rote" height="150" alt="코드트리"></a></td>
-      <td><a href="https://solved.ac/cnlal777"><img src="http://mazassumnida.wtf/api/generate_badge?boj=cnlal777" height="150" alt="Solved.ac"></a></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=joonhoekim&show_icons=true&theme=dark" height="150" alt="GitHub stats"></td>
-    </tr>
-  </table>
-</div>
