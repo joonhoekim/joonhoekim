@@ -1,22 +1,9 @@
-# Hello
-
 <div align="center">
- 
-  <a href="https://blog.joonhoe.com">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
-  <a href="mailto:26rote@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+[blog.joonhoe.com](https://blog.joonhoe.com) &nbsp;·&nbsp; [26rote@gmail.com](mailto:26rote@gmail.com)
 
 *Recognize when the ladder has become the destination*
 
-| **Essence** | **Means** |
-|:---------------:|:-------------:|
-| Why | How |
-| Purpose | Tool |
-| End | Path |
-  
+**Why** not How &nbsp;·&nbsp; **Purpose** not Tool &nbsp;·&nbsp; **End** not Path
+
 </div>
-
-
-
-
-
-
