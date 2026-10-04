@@ -1,6 +1,6 @@
 <div align="center">
 
-[blog.joonhoe.com](https://blog.joonhoe.com) &nbsp;·&nbsp; [26rote@gmail.com](mailto:26rote@gmail.com)
+[oonhoe.com](https://joonhoe.com) &nbsp;·&nbsp; [26rote@gmail.com](mailto:26rote@gmail.com)
 
 *Recognize when the ladder has become the destination*
 
